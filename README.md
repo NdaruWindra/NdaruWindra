@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Ndaru Windra Sayidinaa**.\
 Saya sedang dalam proses belajar tentang **Web Development** di [Dicoding](https://www.dicoding.com/).\
-Saya telah menyelesaikan salah satu kelas tentang dasar HTML dan CSS di Dicoding dan mendapatkan [Sertifikasi Dicoding](https://www.dicoding.com/certificates/RVZK4311EPD5)
+Saya telah menyelesaikan salah satu kelas tentang dasar HTML dan CSS di Dicoding dan mendapatkan [Sertifikasi Dicoding](https://www.dicoding.com/certificates/RVZK4311EPD5).\
 
 <!--
 **NdaruWindra/NdaruWindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
