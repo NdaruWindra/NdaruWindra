@@ -1,8 +1,8 @@
-# Hi, all! 
+# Hi, all ✨! 
 
-Hi, I'm **Ndaru Windra Sayidinaa**.\
-I’m currently learning about **Web Development** on the [Dicoding](https://www.dicoding.com/).\
-I have completed one of the classes on basic HTML and CSS in Dicoding and got [Sertifikasi Dicoding](https://www.dicoding.com/certificates/RVZK4311EPD5).
+- 😄 Hi, I'm **Ndaru Windra Sayidinaa**.\
+- 🌱 I’m currently learning about **Web Development** at the [Dicoding](https://www.dicoding.com/).\
+- ⚡ I have completed one of the classes on basic HTML and CSS in Dicoding and got [Sertifikasi Dicoding](https://www.dicoding.com/certificates/RVZK4311EPD5).
 
 <!--**NdaruWindra/NdaruWindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
