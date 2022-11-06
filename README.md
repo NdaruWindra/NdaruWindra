@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### GitHub Statistic
 <p align="left">
 <a href="https://github.com/NdaruWindra">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=NdaruWindra&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
