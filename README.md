@@ -1,6 +1,6 @@
 # Hi, all ✨! 
 
-- 😄 Hi, I'm **Ndaru Windra Sayidinaa**.
+😄 Hi, I'm **Ndaru Windra Sayidinaa**.
 
 <!--**NdaruWindra/NdaruWindra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
